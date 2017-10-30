@@ -1,6 +1,6 @@
 # VEF1-Lokaverkefni-H17
 
-###Hópverkefni unnið með GIT umsýslukerfinu
+### Hópverkefni unnið með GIT umsýslukerfinu
 Í lokaverkefni VSH1TÖ eiga nemendur að stofna reikning á GitHub.   Nemendur mynda 2 manna hópa og búa til geymslu (repository) á GitHub og geyma hópverkefnið þar.    
 
 #### Skráning á GitHub
