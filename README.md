@@ -1,7 +1,7 @@
 # VEF1-Lokaverkefni-H17
 
 ### Hópverkefni unnið með GIT umsýslukerfinu
-Í lokaverkefni VSH1TÖ eiga nemendur að stofna eigin reikning á GitHub. Nemendur mynda 2 manna hópa og annar þeirra býr til til geymslu (repository) á GitHub til að geyma hópverkefnið. Síðan gefur hann samstarfsaðila sínum heimild til að vinna með honum í geymslunni.    
+Í lokaverkefni VSH1TÖ eiga nemendur að stofna eigin reikning á GitHub. Nemendur mynda 2 manna hópa og annar þeirra býr til til geymslu (repository) á GitHub til að geyma hópverkefnið. Síðan gefur hann samstarfsaðila sínum heimild til að vinna með honum í geymslunni.  [Sjá leiðbeiningar hér](leiðbeiningar/)  
 
 #### Hópverkefnið
 * Búið til vefsíðu sem fjallar um athyglisverðan tölvuleik.???
