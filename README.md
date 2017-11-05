@@ -13,9 +13,8 @@ Fylgið leiðbeiningum: [Uppsetning Github geymlsu](leiðbeiningar/UppsetningGit
 Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henni til samstarfsaðila síns (_Contributor_) til að vinna með honum í geymslunni. [Sjá: Samstarf á GitHub](leiðbeiningar/Samstarf-GitHub.pdf).  
 
 ### GitHub geymsla 
-*	Á forsíðu geymslunnar sem nefnist **„README.md“** á að útskýra hvaða umfjöllunarefni sé valið. 
-
-*	Búið skrá(r) í **Wiki** þar sem fram kemur 
+Á forsíðu geymslunnar sem nefnist **„README.md“** á að útskýra hvaða umfjöllunarefni sé valið. 
+Búið skrá(r) í **Wiki** þar sem fram kemur 
 	* Verkefnaáætlun og verkskipting
 	* Dagbók 
 		* Hvernig gengur verkáætlunin eftir
