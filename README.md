@@ -2,7 +2,7 @@
 ## Skráning á GitHub
 Í lokaverkefni VEF1 eiga nemendur að stofna eigin reikning á [GitHub](https://github.com). 
 
-*	Notendanafn – notið nafnið ykkar,  ef það er frátekið er hægt að bæta afmælisdegi við, 
+*	Notendanafn – notið nafnið ykkar,  ef það er frátekið er t.d. hægt að bæta afmælisdegi við, 
 <br>_ekki nota óljós heiti eins og „duddi_gaur“ eða „ilovemyiphone“_
 *	Tölvupóstfang (_e-mail adress_) – notið tölvupóstfang sem [Tækniskólinn hefur úthutað ykkur](http://www.tskoli.is/gott-ad-vita/adgangur-ad-tolvukerfi/).  Með því að nota tölvupóstfang Tækniskólans getið þið [sótt um aðgang að námspakka GitHub](https://education.github.com/pack). 
 *	Lykilorð, _vandið valið_ og skráið það niður.
