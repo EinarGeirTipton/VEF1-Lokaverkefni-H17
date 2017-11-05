@@ -50,6 +50,6 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 * 7%  Vefsíða á github.io/
 
 #### Bjargir
-*	[https://github.com/vefhonnun/VEF1-Lokaverkefni-H17/wiki/Bjargir](Lokaverkefni-H17/wiki/Bjargir)
+*	[Lokaverkefni-H17/wiki/Bjargir](https://github.com/vefhonnun/VEF1-Lokaverkefni-H17/wiki/Bjargir)
 
 
