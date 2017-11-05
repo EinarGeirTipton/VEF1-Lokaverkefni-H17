@@ -25,8 +25,8 @@ Búið skrá(r) í **Wiki** þar sem fram kemur
 
 ### Hópverkefnið
 Búið til vefsíðu um athyglisverðan tölvuleik eða tölvubúnað sem ykkur langar að fjalla um. 
-Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf). Vísið á vefsíðuna á _"README.md"_ 
-*	**Á vefsíðunni þurfa eftirtalinn atriði að koma fram:**
+Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf). Vísið á vefsíðuna (_link_) í _"README.md"_ skránni.
+*	**Á vefsíðunni þurfa eftirtalin atriði að koma fram:**
 	1.	Hvaða tegund af tölvuleik/búnað er um að ræða
 	2.	Hvenær var hann búinn til 
 	3.	Hverjir eru höfundar og framleiðendur
@@ -39,18 +39,18 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 
 ### Verkefnaskil:
 
-*	**Öllum vinnugögnum er skilað í Github geymslu.**
+*	Öllum vinnugögnum er skilað í **Github geymslu.**
 *	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"**. [Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf)
-*	Tengli á geymsluna er skilað í **INNU**. 
+*	Tengli (_link_) sem vísar á geymsluna er skilað í **INNU**. 
 
-#### <i>Gangi ykkur vel</i>
+#### _Gangi ykkur vel_
 
 #### Námsmat 15%  
 * 8%  Vinnuframlag, miðast við niðurstöðu verkáætlunar.
 * 7%  Vefsíða á github.io/
 
 #### Bjargir
-http://www.museumofplay.org/about/icheg/video-game-history/timeline
-http://www.computerhistory.org
+*	http://www.museumofplay.org/about/icheg/video-game-history/timeline
+*	http://www.computerhistory.org
 
 
