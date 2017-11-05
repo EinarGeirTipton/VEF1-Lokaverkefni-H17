@@ -1,7 +1,6 @@
 # VEFÞ1 Lokaverkefni H17
 ## Skráning á GitHub
-Í lokaverkefni VEF1 eiga nemendur að stofna eigin reikning á [GitHub](https://github.com). <br>
-Fylgið leiðbeiningum: [Uppsetning Github geymlsu](leiðbeiningar/UppsetningGithub-geymslu.pdf).
+Í lokaverkefni VEF1 eiga nemendur að stofna eigin reikning á [GitHub](https://github.com). 
 
 *	Notendanafn – notið nafnið ykkar,  ef það er frátekið er hægt að bæta afmælisdegi við, 
 <br>_ekki nota óljós heiti eins og „duddi_gaur“ eða „ilovemyiphone“_
@@ -11,6 +10,8 @@ Fylgið leiðbeiningum: [Uppsetning Github geymlsu](leiðbeiningar/UppsetningGit
 ## Hópverkefni unnið með GIT verkþáttastjórnun
 #### Hópastærð: 2 nemendur
 Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henni til samstarfsaðila síns (_Contributor_) til að vinna með honum í geymslunni. [Sjá: Samstarf á GitHub](leiðbeiningar/Samstarf-GitHub.pdf).  
+<br>
+Fylgið leiðbeiningum: **[Uppsetning Github geymlsu](leiðbeiningar/UppsetningGithub-geymslu.pdf).**
 
 ### GitHub geymsla 
 Á forsíðu geymslunnar sem nefnist **„README.md“** á að útskýra hvaða umfjöllunarefni sé valið.<br> 
