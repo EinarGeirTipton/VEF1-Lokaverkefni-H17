@@ -21,7 +21,7 @@ Búið skrá(r) í **Wiki** þar sem fram kemur
 	* Niðurstaða samvinnu 
 		* Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum eigin Github reikningi. 
 * Heimildaskrá
-*	Öll vinnugögn sem tilheyra hópverkefninu eiga að vera í Github geymslunni. 
+
 
 ### Hópverkefnið
 Búið til vefsíðu um athyglisverðan tölvuleik eða tölvubúnað sem ykkur langar að fjalla um. 
@@ -38,19 +38,19 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 	8.	Setjið myndefni á vefsíðuna til að styðja framsetninguna.
 
 ### Verkefnaskil:
-	1.	Öllum vinnugögnum er skilað í Github geymslu. 
-	2.	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"**. 
-		[Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf)
-	3.	Tengli á geymsluna er skilað í **INNU**. 
+
+*	**Öllum vinnugögnum er skilað í Github geymslu.**
+*	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"**. [Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf)
+*	Tengli á geymsluna er skilað í **INNU**. 
 
 #### <i>Gangi ykkur vel</i>
 
 #### Námsmat 15%  
-	* 7%  Vinnuframlag, miðast við samantekt um verkáætlun
-	* 8%  Vefsíða á tsuts.tskoli.is
+* 8%  Vinnuframlag, miðast við niðurstöðu verkáætlunar.
+* 7%  Vefsíða á github.io/
 
 #### Bjargir
-	http://www.museumofplay.org/about/icheg/video-game-history/timeline
-	http://www.computerhistory.org
+http://www.museumofplay.org/about/icheg/video-game-history/timeline
+http://www.computerhistory.org
 
 
