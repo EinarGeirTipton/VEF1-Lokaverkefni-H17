@@ -1,16 +1,17 @@
 # VEFÞ1 Lokaverkefni H17
 ## Skráning á GitHub
-Í lokaverkefni VEF1 eiga nemendur að stofna eigin reikning á GitHub. Fylgið eftirfarandi leiðbeiningum við skráninguna
+Í lokaverkefni VEF1 eiga nemendur að stofna eigin reikning á GitHub. Fylgið leiðbeiningum [Uppsetning Github geymlsu](leiðbeiningar/Uppsetning Github geymslu.pdf) við skráninguna.
 *	Notendanafn – notið nafnið ykkar,  ef það er frátekið er hægt að bæta afmælisdegi við, 
 td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða „ilovemyiphone“
-*	Tölvupóstfang (e-mail adress) – notið tölvupóstfang sem [Tækniskólinn hefur úthutað ykkur](http://www.tskoli.is/gott-ad-vita/adgangur-ad-tolvukerfi/) .  Nemandi stofnar geymslu og deilir ritstjórarétti að henni til samstarfsaðila síns (Contributor)  Með því að nota tölvupóstfang Tækniskólans getið þið [sótt um aðgang að námspakka GitHub](https://education.github.com/pack). 
+*	Tölvupóstfang (e-mail adress) – notið tölvupóstfang sem [Tækniskólinn hefur úthutað ykkur](http://www.tskoli.is/gott-ad-vita/adgangur-ad-tolvukerfi/).  Með því að nota tölvupóstfang Tækniskólans getið þið [sótt um aðgang að námspakka GitHub](https://education.github.com/pack). 
 *	Lykilorð – vandið valið.
 
 ## Hópverkefni unnið með GIT verkþáttastjórnun
-Nemendur mynda 2 manna hópa og annar þeirra býr til til geymslu (repository) á GitHub til að geyma hópverkefnið. Síðan gefur hann samstarfsaðila sínum heimild til að vinna með honum í geymslunni.  [Sjá leiðbeiningar hér](leiðbeiningar/)  
+#### Hópastærð: 2 nemendur
+Nemandi stofnar geymslu og deilir ritstjórarétti að henni til samstarfsaðila síns (Contributor) til að vinna með honum í geymslunni. [Sjá: Samstarf á GitHub](leiðbeiningar/).  
 
 ### GitHub geymsla 
-*	Á forsíðu geymslunnar sem nefnist „README.md“ á að skrá stytta útgáfu af hópverkefninu og vísa síðan í vefsíðuna á miðlaranum okkar tsuts.tskoli.is.
+*	Á forsíðu geymslunnar sem nefnist „README.md“ á að útskýra hvaða umfjöllunarefni sé valið vísa í vefsíðuna á GitHub.io. [Sjá leiðbeiningar hér](leiðbeiningar/).
 *	Búið skrár í Wiki þar sem fram kemur 
 	* Verkefnaáætlun og verkskipting
 	* Dagbók 
