@@ -6,12 +6,11 @@
 <br>_ekki nota óljós heiti eins og „duddi_gaur“ eða „ilovemyiphone“_
 *	Tölvupóstfang (_e-mail adress_) – notið tölvupóstfang sem [Tækniskólinn hefur úthutað ykkur](http://www.tskoli.is/gott-ad-vita/adgangur-ad-tolvukerfi/).  Með því að nota tölvupóstfang Tækniskólans getið þið [sótt um aðgang að námspakka GitHub](https://education.github.com/pack). 
 *	Lykilorð, _vandið valið_ og skráið það niður.
+*	Fylgið leiðbeiningum: **[Uppsetning Github geymlsu](leiðbeiningar/UppsetningGithub-geymslu.pdf).**
 
 ## Hópverkefni unnið með GIT verkþáttastjórnun
 #### Hópastærð: 2 nemendur
 Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henni til samstarfsaðila síns (_Contributor_) til að vinna með honum í geymslunni. [Sjá: Samstarf á GitHub](leiðbeiningar/Samstarf-GitHub.pdf).  
-<br>
-Fylgið leiðbeiningum: **[Uppsetning Github geymlsu](leiðbeiningar/UppsetningGithub-geymslu.pdf).**
 
 ### GitHub geymsla 
 Á forsíðu geymslunnar sem nefnist **„README.md“** á að útskýra hvaða umfjöllunarefni sé valið.<br> 
