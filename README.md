@@ -17,7 +17,8 @@ Búið til vefsíðu sem fjallar um athyglisverðan tölvuleik.???
 	8.	Setjið myndefni á vefsíðuna til að styðja framsetninguna.
 * 	Verkefnaskil:	
 	1.	Öllum vinnugögnum er skilað í Github geymslu. 
-	2.	Vefsíða er sett á tsuts.tskoli.is/2t/..... (ykkar vefsvæði)
+	2.	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"** <br>
+		Sjá nánar [hvernig vefsíða er sett á GitHub.io](leiðbeiningar/)
 	3.	Tenglum á geymsluna og vefsíðuna er skilað í INNU/VSH1TÖ/Hópverkefni. 
 
 #### Skráning á GitHub
@@ -28,7 +29,7 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 *	Lykilorð – vandið valið.
 
 #### GitHub geymsla 
-*	NemandI stofnar geymslu og deilir ritstjórarétti að henni til samstarfsaðila síns (Contributor)  
+*	Nemandi stofnar geymslu og deilir ritstjórarétti að henni til samstarfsaðila síns (Contributor)  
 *	Á forsíðu geymslunnar sem nefnist „README.md“ á að skrá stytta útgáfu af hópverkefninu og vísa síðan í vefsíðuna á miðlaranum okkar tsuts.tskoli.is.
 *	Búið til 2 skrár í Wiki þar sem fram kemur 
 	* Verkefnaáætlun og verkskipting og 
@@ -43,4 +44,8 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 #### Námsmat 15%  
 	* 7%  Vinnuframlag, miðast við samantekt um verkáætlun
 	* 8%  Vefsíða á tsuts.tskoli.is
+
+#### Bjargir
+	
+
 
