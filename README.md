@@ -17,9 +17,9 @@ Búið til vefsíðu sem fjallar um athyglisverðan tölvuleik.???
 	8.	Setjið myndefni á vefsíðuna til að styðja framsetninguna.
 * 	Verkefnaskil:	
 	1.	Öllum vinnugögnum er skilað í Github geymslu. 
-	2.	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"** 
-		[Sjá nánar hvernig vefsíða er sett á GitHub.io](leiðbeiningar/)
-	3.	Tenglum á geymsluna og vefsíðuna er skilað í INNU/VSH1TÖ/Hópverkefni. 
+	2.	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"**. 
+		[Hvernig er vefsíða sett á GitHub.io](leiðbeiningar/)
+	3.	Tengli á geymsluna er skilað í **INNU**. 
 
 #### Skráning á GitHub
 Fylgið eftirfarandi leiðbeiningum við skráninguna
@@ -47,5 +47,6 @@ td. „nonni2902“ – ekki nota óljós heiti eins og „duddi_gaur“ eða �
 
 #### Bjargir
 	http://www.museumofplay.org/about/icheg/video-game-history/timeline
+	http://www.computerhistory.org
 
 
