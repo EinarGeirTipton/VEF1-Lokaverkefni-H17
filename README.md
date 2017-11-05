@@ -4,9 +4,9 @@
 Í lokaverkefni VSH1TÖ eiga nemendur að stofna eigin reikning á GitHub. Nemendur mynda 2 manna hópa og annar þeirra býr til til geymslu (repository) á GitHub til að geyma hópverkefnið. Síðan gefur hann samstarfsaðila sínum heimild til að vinna með honum í geymslunni.  [Sjá leiðbeiningar hér](leiðbeiningar/)  
 
 #### Hópverkefnið
-* Búið til vefsíðu sem fjallar um athyglisverðan tölvuleik.???
+Búið til vefsíðu sem fjallar um athyglisverðan tölvuleik.???
 
-Á vefsíðunni þurfa eftirtalinn atriði að koma fram:
+*	Á vefsíðunni þurfa eftirtalinn atriði að koma fram:
 	1.	Hvaða tegund af tölvuleik er um að ræða
 	2.	Hvenær var hann búinn til 
 	3.	Hverjir eru höfundar og framleiðendur
@@ -15,7 +15,7 @@
 	6.	Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn
 	7.	Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
 	8.	Setjið myndefni á vefsíðuna til að styðja framsetninguna.
-* Verkefnaskil:	
+* 	Verkefnaskil:	
 	1.	Öllum vinnugögnum er skilað í Github geymslu. 
 	2.	Vefsíða er sett á tsuts.tskoli.is/2t/..... (ykkar vefsvæði)
 	3.	Tenglum á geymsluna og vefsíðuna er skilað í INNU/VSH1TÖ/Hópverkefni. 
