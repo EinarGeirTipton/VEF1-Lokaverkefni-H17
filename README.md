@@ -25,7 +25,7 @@ Búið skrá(r) í **Wiki** þar sem fram kemur
 
 ### Hópverkefnið
 Búið til vefsíðu um athyglisverðan tölvuleik eða tölvubúnað sem ykkur langar að fjalla um. 
-Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar hér](leiðbeiningar/vefsida_Github.pdf). Vísið á vefsíðuna á _"README.md"_ 
+Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf). Vísið á vefsíðuna á _"README.md"_ 
 *	**Á vefsíðunni þurfa eftirtalinn atriði að koma fram:**
 	1.	Hvaða tegund af tölvuleik/búnað er um að ræða
 	2.	Hvenær var hann búinn til 
@@ -36,10 +36,11 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar hér](leiðbein
 		<br>Hverjar eru framtíðarhorfur búnaðarins eða hvenær var hætt að framleiða hann.
 	7.	Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
 	8.	Setjið myndefni á vefsíðuna til að styðja framsetninguna.
-* 	**Verkefnaskil:**
+
+### Verkefnaskil:
 	1.	Öllum vinnugögnum er skilað í Github geymslu. 
 	2.	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"**. 
-		[Hvernig er vefsíða sett á GitHub.io](leiðbeiningar/)
+		[Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf)
 	3.	Tengli á geymsluna er skilað í **INNU**. 
 
 #### <i>Gangi ykkur vel</i>
