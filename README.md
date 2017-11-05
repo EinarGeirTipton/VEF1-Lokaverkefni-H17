@@ -13,14 +13,14 @@ Fylgið leiðbeiningum: [Uppsetning Github geymlsu](leiðbeiningar/UppsetningGit
 Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henni til samstarfsaðila síns (_Contributor_) til að vinna með honum í geymslunni. [Sjá: Samstarf á GitHub](leiðbeiningar/Samstarf-GitHub.pdf).  
 
 ### GitHub geymsla 
-Á forsíðu geymslunnar sem nefnist **„README.md“** á að útskýra hvaða umfjöllunarefni sé valið. 
+Á forsíðu geymslunnar sem nefnist **„README.md“** á að útskýra hvaða umfjöllunarefni sé valið.<br> 
 Búið skrá(r) í **Wiki** þar sem fram kemur 
-	* Verkefnaáætlun og verkskipting
-	* Dagbók 
-		* Hvernig gengur verkáætlunin eftir
-		* Niðurstaða samvinnu 
-			* Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum eigin Github reikningi. 
-	* Heimildaskrá
+* Verkefnaáætlun og verkskipting
+* Dagbók 
+	* Hvernig gengur verkáætlunin eftir
+	* Niðurstaða samvinnu 
+		* Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum eigin Github reikningi. 
+* Heimildaskrá
 *	Öll vinnugögn sem tilheyra hópverkefninu eiga að vera í Github geymslunni. 
 
 ### Hópverkefnið
