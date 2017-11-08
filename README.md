@@ -20,7 +20,7 @@ Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henn
 * 	Verkefnaáætlun og verkskipting
 * 	Dagbók 
 		* Hvernig gengur verkáætlunin eftir
-		* Niðurstaða samvinnu Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum eigin Github reikningi. 
+		* Niðurstaða samvinnu. 
 * 	Heimildaskrá
 
 ### Hópverkefnið
