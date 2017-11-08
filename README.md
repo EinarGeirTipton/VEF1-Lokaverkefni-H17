@@ -53,8 +53,9 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 		*	Niðurstaða verkáætlunar.
 		*	Heimildaskrá
 *	10%  **Vefsíða** á github.io/
-	*	Útlit og uppsetning vefsíðu
-	*	Kóði og skipulag gagna
+	*	Innihald
+	*	Útlit og uppsetning
+	*	Kóði og skipulag 
 #### Hópverkefnið er _lykilmatsþáttur._
 
 #### Bjargir
