@@ -14,8 +14,8 @@ Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henn
 
 ### GitHub hópverkefni geymsla (_repsitory_) 
 #### Forsíða
-*	**„README.md“** útskýrið í stuttu máli hvaða umfjöllunarefni er valið.
-#### Wiki
+*	**„README.md“**. Útskýrið í stuttu máli um hvaða efni hópurinn hefur ákveðið að taka fyrir.
+#### Wiki(https://github.com/vefhonnun/VEF1-Lokaverkefni-H17/wiki/)
 *	Búið skrá(r) þar sem fram kemur 
 * 	Verkefnaáætlun og verkskipting
 * 	Dagbók 
@@ -45,8 +45,8 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 #### _Gangi ykkur vel_
 
 #### Námsmat 15%  
-* 8%  Vinnuframlag, miðast við niðurstöðu verkáætlunar.
-* 7%  Vefsíða á github.io/
+*	8%  Vinnuframlag, miðast við niðurstöðu verkáætlunar.
+*	7%  Vefsíða á github.io/
 
 #### Bjargir
 *	[Lokaverkefni-H17/wiki/Bjargir](https://github.com/vefhonnun/VEF1-Lokaverkefni-H17/wiki/Bjargir)
