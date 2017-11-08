@@ -46,8 +46,8 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 
 #### Námsmat 15%  
 *	8%  Vinnuframlag
-	*	verkskipting
-	*	niðurstaða verkáætlunar.
+	*	Verkskipting
+	*	Niðurstaða verkáætlunar.
 *	7%  Vefsíða á github.io/
 	*	Útlit og uppsetning vefsíðu
 	*	Kóði og skipulag gagna
