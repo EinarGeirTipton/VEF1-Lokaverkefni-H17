@@ -47,7 +47,7 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 #### Námsmat 15%  
 *	8%  Vinnuframlag, miðast við niðurstöðu verkáætlunar.
 *	7%  Vefsíða á github.io/
-#### Hópverkfenið er _lykilmatsþáttur._
+#### Hópverkefnið er _lykilmatsþáttur._
 
 #### Bjargir
 *	[Lokaverkefni-H17/wiki/Bjargir](https://github.com/vefhonnun/VEF1-Lokaverkefni-H17/wiki/Bjargir)
