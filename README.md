@@ -44,7 +44,7 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 
 #### _Gangi ykkur vel_
 
-#### Námsmat 15%  
+#### Námsmat 20%  
 *	10%  **Skipulag** verkefnis
 	*	GitHub geymsla
 		*	Öll gögn verkefnisns eru í geymslunni
