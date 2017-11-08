@@ -45,8 +45,12 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 #### _Gangi ykkur vel_
 
 #### Námsmat 15%  
-*	8%  Vinnuframlag, miðast við niðurstöðu verkáætlunar.
+*	8%  Vinnuframlag
+	*	verkskipting
+	*	niðurstaða verkáætlunar.
 *	7%  Vefsíða á github.io/
+	*	Útlit og uppsetning vefsíðu
+	*	Kóði og skipulag gagna
 #### Hópverkefnið er _lykilmatsþáttur._
 
 #### Bjargir
