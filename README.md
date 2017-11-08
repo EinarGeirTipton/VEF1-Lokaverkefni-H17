@@ -45,9 +45,13 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 #### _Gangi ykkur vel_
 
 #### Námsmat 15%  
-*	8%  Vinnuframlag
-	*	Verkskipting
-	*	Niðurstaða verkáætlunar.
+*	8%  Skipulag verkefnis
+	*	GitHub geymsla
+		*	Öll gögn verkefnisns eru í geymslunni
+	*	Wiki skrá
+		*	Verkskipting
+		*	Niðurstaða verkáætlunar.
+		*	Heimildaskrá
 *	7%  Vefsíða á github.io/
 	*	Útlit og uppsetning vefsíðu
 	*	Kóði og skipulag gagna
