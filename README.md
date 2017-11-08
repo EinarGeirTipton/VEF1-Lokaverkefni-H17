@@ -19,8 +19,8 @@ Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henn
 *	Búið skrá(r) þar sem fram kemur 
 * 	Verkefnaáætlun og verkskipting
 * 	Dagbók 
-		* Hvernig gengur verkáætlunin eftir
-		* Niðurstaða samvinnu. 
+	*	Hvernig gengur verkáætlunin eftir
+	*	Niðurstaða samvinnu. 
 * 	Heimildaskrá
 
 ### Hópverkefnið
