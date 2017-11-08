@@ -13,15 +13,15 @@
 Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henni til samstarfsaðila síns (_Contributor_) til að vinna með honum í geymslunni. [Sjá: Samstarf á GitHub](leiðbeiningar/Samstarf-GitHub.pdf).  
 
 ### GitHub hópverkefni geymsla (_repsitory_) 
-Á forsíðu geymslunnar sem nefnist **„README.md“** á að útskýra hvaða umfjöllunarefni sé valið.<br> 
-Búið skrá(r) í **Wiki** þar sem fram kemur 
-* Verkefnaáætlun og verkskipting
-* Dagbók 
-	* Hvernig gengur verkáætlunin eftir
-	* Niðurstaða samvinnu 
-		* Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum eigin Github reikningi. 
-* Heimildaskrá
-
+#### Forsíða
+*	**„README.md“** útskýrið í stuttu máli hvaða umfjöllunarefni er valið.
+#### Wiki
+*	Búið skrá(r) þar sem fram kemur 
+* 	Verkefnaáætlun og verkskipting
+* 	Dagbók 
+		* Hvernig gengur verkáætlunin eftir
+		* Niðurstaða samvinnu Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum eigin Github reikningi. 
+* 	Heimildaskrá
 
 ### Hópverkefnið
 Búið til vefsíðu um athyglisverðan tölvuleik eða tölvubúnað sem ykkur langar að fjalla um. 
@@ -38,7 +38,6 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 	8.	Setjið myndefni á vefsíðuna til að styðja framsetninguna.
 
 ### Verkefnaskil:
-
 *	Öllum vinnugögnum er skilað í **Github geymslu.**
 *	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"**. [Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf)
 *	Tengli (_link_) sem vísar á geymsluna er skilað í **INNU**. 
