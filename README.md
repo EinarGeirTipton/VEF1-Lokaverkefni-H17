@@ -39,7 +39,7 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 
 ### Verkefnaskil:
 *	Öllum vinnugögnum er skilað í **Github geymslu.**
-*	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"**. [Sjá leiðbeiningar](leiðbeiningar/vefsida_Github.pdf)
+*	Vefsíðan er sett á vefsvæði geymslunnar, **"docs"**. [Sjá vefdæmi](https://vefhonnun.github.io/VEF1-Lokaverkefni-H17/)
 *	Tengli (_link_) sem vísar á geymsluna er skilað í **INNU**. 
 
 #### _Gangi ykkur vel_
