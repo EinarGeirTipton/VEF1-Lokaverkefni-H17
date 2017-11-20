@@ -10,7 +10,7 @@
 
 ## Hópverkefni unnið með GIT verkþáttastjórnun
 #### Hópastærð: 2 nemendur
-Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henni til samstarfsaðila síns (_Contributor_) til að vinna með honum í geymslunni. [Sjá: Samstarf á GitHub](leiðbeiningar/Samstarf-GitHub.pdf).  
+Nemandi stofnar geymslu fyrir hópverkefnið og deilir ritstjórarétti að henni til samstarfsaðila síns (_Contributor_) til að vinna með honum í geymslunni. [Sjá: Samstarf á GitHub](leiðbeiningar/Samstarf-GitHub.pdf).  [Skráning hópa hér](https://github.com/vefhonnun/VEF1-Lokaverkefni-H17/blob/master/Skr%C3%A1ning_h%C3%B3pa.md).
 
 ### GitHub hópverkefni geymsla (_repsitory_) 
 #### Forsíða
