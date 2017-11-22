@@ -63,3 +63,4 @@ Vefsíðan á að vera vistuð á GitHub.io [Sjá leiðbeiningar](leiðbeiningar
 *	[Lokaverkefni-H17/wiki/Bjargir](https://github.com/vefhonnun/VEF1-Lokaverkefni-H17/wiki/Bjargir)
 
 
+// bara að sýna breytingu á skrá 
